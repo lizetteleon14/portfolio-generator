@@ -1,0 +1,26 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "Node.js to build a program that creates an HTML portfolio page using the command line ",
+  "main": "app.js",
+  "scripts": {
+    "test": "\"hello world\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizetteleon14/portfolio-generator.git"
+  },
+  "keywords": [
+    "\"hello",
+    "world\""
+  ],
+  "author": "Lizette Leon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lizetteleon14/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/lizetteleon14/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.2"
+  }
+}
